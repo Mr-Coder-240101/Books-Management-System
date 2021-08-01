@@ -1,0 +1,13 @@
+#update, #delete, #insert, #search, #view {
+    -fx-min-width: 160;
+    -fx-min-height: 50;
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+    -fx-font-size: 18;
+    -fx-background-color: #333;
+    -fx-background-radius: 0;
+}
+
+#update:hover, #delete:hover, #insert:hover, #search:hover, #view:hover {
+    -fx-background-color: #444;
+}
